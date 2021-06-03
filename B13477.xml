@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A wonderfull and most lamentable declaration of the great hurt done, and mighty losse sustained by fire that hapned and mighty stormes of winde, thunder, lightning, haile, and raine, with inundations of water, that fell in the towne of Erfford and Weinmar; and in country of Wurtenburgh, as namely in the townes of Nagolt, Hernburg, Rotenburch, Tubingen, Issingen, Elwang, and Dunken-spiel, as also in many other places of Germany, to the great destruction of thousands of men, women, and children; houses, cattle, corne, money, houshold-stuffe, and many other things; in the month of May, but much more in the month of Iune last past, anno, 1613. With a briefe relation of a great fire, which vpon the fourteenth of Iune hapned in the citty of Constantinople, and burnt fiue thousand houses. ... Printed at Collen in High Ducth [sic], and translated into English.</title>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13477</idno><idno type="EEBO-CITATION">99837476</idno>
+  <idno type="VID">177082</idno>
+  <idno type="EEBO-PROQUEST">2240876568</idno>
+  <idno type="STC">STC 10511.7</idno>
+  <idno type="STC">ESTC S101668</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99837476e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13477)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177082)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 785:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A wonderfull and most lamentable declaration of the great hurt done, and mighty losse sustained by fire that hapned and mighty stormes of winde, thunder, lightning, haile, and raine, with inundations of water, that fell in the towne of Erfford and Weinmar; and in country of Wurtenburgh, as namely in the townes of Nagolt, Hernburg, Rotenburch, Tubingen, Issingen, Elwang, and Dunken-spiel, as also in many other places of Germany, to the great destruction of thousands of men, women, and children; houses, cattle, corne, money, houshold-stuffe, and many other things; in the month of May, but much more in the month of Iune last past, anno, 1613. With a briefe relation of a great fire, which vpon the fourteenth of Iune hapned in the citty of Constantinople, and burnt fiue thousand houses. ... Printed at Collen in High Ducth [sic], and translated into English.</title>
+               </titleStmt>
+               <extent>[6], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by N. Okes] for Thomas Archer, and are to be sold at his shop in Popes-head Palace,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1613.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Identified as STC 10434 on UMI microfilm.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Storms --  Germany.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177082:1"/>
+            <p>A Wonderfull and most Lamentable Declaration of the great hurt done, and mighty losse sustained by Fire that hapned; and mighty stormes of Winde, Thunder, Lightning, Haile, and Raine, with Inundations of Water, that fell in the Towne of <hi>Erfford</hi> and <hi>Weinmar;</hi> and in Country of <hi>Wurtenburgh,</hi> as namely in the Townes of <hi>Vagolt, Hernburg, Roten<g ref="char:EOLhyphen"/>burch, Tubingen, Issingen, Elwang,</hi> and <hi>Duncken-spiel,</hi> as also in many other places of <hi>Germany,</hi> to the great destruction of thousand of Men, Women, and Children; Houses, Cattle, Corne, Money, Houshold-stuffe, and many other things: In the Month of <hi>May,</hi> but much more in the Month of <hi>Iune</hi> last past, <hi>Anno,</hi> 1613.</p>
+            <p>With a briefe Relation of a great fire, which vpon the fourteenth of <hi>Iune,</hi> hapned in the Citty of <hi>Constanti<g ref="char:EOLhyphen"/>nople, and burnt fiue thousand houses.</hi>
+            </p>
+            <p>Written to moue all good Christians to pitty and compassion, and to stirre vp their hearts to pray vnto God to conuert <hi>his Ire from vs.</hi>
+            </p>
+            <p>Printed at <hi>Collen</hi> in High <hi>Ducth,</hi> and Translated into <hi>English.</hi>
+            </p>
+            <p>London Printed for <hi>Thomas Archer,</hi> and are to be sold at his Shop in Popes-head Palace, 1613.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:177082:2"/>
+            <pb facs="tcp:177082:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the great and fearefull day of the Lords terrible and last Iudgement to be giuen vpon this wicked world, is at hand, and ready to come vp<g ref="char:EOLhyphen"/>on vs (good Reader) now more then sufficiently is seene and manifestly percei<g ref="char:EOLhyphen"/>ued; for that daily experience, together with the fore-shewing and Prophesyings of our Lord and Sauiour Iesus Christ himselfe, and his holy Pro<g ref="char:EOLhyphen"/>phets doe assure vs thereof which plainely tels vs, that signes and tokens shall be seene in the fir<g ref="char:EOLhyphen"/>mament, and that men heere on earth should thereby and there-with be stricken into great feare, griefe, sorrow and anguish of heart, to be<g ref="char:EOLhyphen"/>hold the same; that the wicked and vngodly would become so obdurate and obstinate that they should vtterly reiect all warning, counsell, admonition, or instruction whatsoeuer, giuen vn<g ref="char:EOLhyphen"/>to them for amendment of life, and humbling and bending of their stubborne hearts by prayer vnto the Lord, that pride, and hatred, malice, and contention, with other wickednesse and ab<g ref="char:EOLhyphen"/>hominations should so much therein abound,
+<pb facs="tcp:177082:3"/>that the Lord cannot chuse but speedily come to iudge and punish the great vn-righteousnesse of man, for proofe whereof it is needlesse to say much, when it is so manifes<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly &amp; euidently seene daily, hourly, and continually from time to time. For was there euer more or greater wickednesse knowne and practised in the world, then is now at this day committed by all sorts of men, who daily and nightly consume their time, and the great and good gifts of God, in superflous and gluttenous eating, drinking, lust, pleasures, mur<g ref="char:EOLhyphen"/>thers, thefts, and many other abhominable and wicked sins and offences committed against the maiesty of God, without all remorce of consci<g ref="char:EOLhyphen"/>ence, or any feare of his iudgments daily shewed vpon vs. So that we cannot, but must needs con<g ref="char:EOLhyphen"/>fesse, that God in his righteous and iust iudge<g ref="char:EOLhyphen"/>ment is truly moued and incited to with-draw his mercifull and most bountifull hand from vs, and in respect of our great vnthankfulnesse towards him, and the extreame cruelties, and vnmerciful<g ref="char:EOLhyphen"/>nesse by vs vsed and continually shewed vnto our Christian brethren, to strike vs with the arrowes of his fierce wrath and indignation, by his mini<g ref="char:EOLhyphen"/>sters of plague, pestilence, famine, warre, fire, stormes of wind, thunder, lightening, haile, raine, and inundations of water, with many other such like punishments, by vs well and meritoriously deserued at his hands. As for example. Did not God this yeare most bountifully shew forth his great goodnesse; grace &amp; mercy throughout the whole spacious Country of <hi>Germany,</hi> by sending
+<pb facs="tcp:177082:3"/>them so goodly and prosperous a spring, and so seasonable a Summer, that the fruits of the earth were seene to bee so forward, faire, and in so great aboundance, as that in many hundred yeares heretofore the like was neuer seene, nor knowne? But o most mercifull God, how soone by thy mighty power hast thou ouer-whelmed the same? how soone haue they lost all their great hope? how quickly haue they beene bereaued of those goodly fruits thy great blessings? and how soone (as it were in a moment) haue they beene cast downe from the mount of felicity into the deepe valley of sorrow, woe, and extreame heauinesse? by the great stormes of wind, thunder, lightning, haile and raine, with inundations of water, and extreame fires, which many places there in <hi>Ger<g ref="char:EOLhyphen"/>many</hi> haue of late felt, and found, to their most great, vn-speakeable, and intollera<g ref="char:EOLhyphen"/>ble losse and lamentable destruction, the particulars whereof here<g ref="char:EOLhyphen"/>after ensue.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:177082:4"/>
+            <pb n="1" facs="tcp:177082:4"/>
+            <head>The great and wonderfull losse sustained by Fire and Water in the Coun<g ref="char:EOLhyphen"/>trey of <hi>Germany,</hi> in the Months of May and Iune, in diuers places of the said Countrey; as first in the Towne of <hi>Erfford</hi> and <hi>Weinmar.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>N the Towne of <hi>Erfort,</hi> and o<g ref="char:EOLhyphen"/>ther places in <hi>Germany,</hi> vpon the eighth day of the month of <hi>Iune</hi> last past, the weather was so vn-seasonable and stormy, that by meanes of certaine sho<g ref="char:EOLhyphen"/>wers of raine, and extremity of haile that fell in great aboundance in that country, the wa<g ref="char:EOLhyphen"/>ter grew so high that many places thereabout were drowned, to the great and vnspeakeable hurt of the people of the same; for that the haile-stones which fell from the sky, were in many places seene and found to bee as big as pigeons and hens egges.</p>
+            <p>And specially in the towne of <hi>Weinmar,</hi> it was most extreame and terrible, whereby two milles, at least a hundred men, and many cat<g ref="char:EOLhyphen"/>tle, were drowned, and the water in <hi>Reinmar</hi> at that time, waxt and rose vp at least three elles higher then euer it was before: and the water called the <hi>Ilme,</hi> which tunneth by the
+<pb n="2" facs="tcp:177082:5"/>gate, through <hi>Naumburg,</hi> and so to <hi>Saal,</hi> rose so high that foure miles round in circuit, it o<g ref="char:EOLhyphen"/>uer-whelmed and drowned all the villages &amp; hamblets thereabouts, together with an in<g ref="char:EOLhyphen"/>numerable company of men, women, and chil<g ref="char:EOLhyphen"/>dren, and great multitudes of cattle.</p>
+            <p>And about halfe a mile from <hi>Weinmar,</hi> in a small village, the water ran with so mighty a force, and such a streame, that it bare the bo<g ref="char:EOLhyphen"/>dies of the dead before it out of their graues in the Church-yard, and at <hi>Mulhausen</hi> and <hi>Solts</hi> drowned all their sellers, and spoiled whatsoe<g ref="char:EOLhyphen"/>uer was therein: whereby at least fifty Tuns of Wine and Beere were vtterly staued &amp; lost.</p>
+            <p>In <hi>Eiffeldt</hi> by <hi>Mulhausen</hi> at the same time, there was an hundred men, women, and chil<g ref="char:EOLhyphen"/>dren drowned, the houses by the water so vn<g ref="char:EOLhyphen"/>dermined, that they fell down, and were borne cleane away: and as it was found by search<g ref="char:EOLhyphen"/>ching and true certificates, there was at least a thousand men, women, and children cast a<g ref="char:EOLhyphen"/>way and drowned within the liberties and territories of <hi>Weinmar.</hi> And for that the wa<g ref="char:EOLhyphen"/>ter continued with so great extremity to rise &amp; rage in that manner for the space of twelue houres together, the people were forced to get into boats and in them to sit and passe along to saue themselues, singing vnto the Lord, and saying: <hi>In peace and ioy I passe along, and God our Lord and Father dwell by vs, &amp;c.</hi>
+            </p>
+            <p>At <hi>Magdenburg</hi> about the same time, there was at the least foure hundred houses by ex<g ref="char:EOLhyphen"/>tremity
+<pb n="3" facs="tcp:177082:5"/>of water cleane cast downe and ouer<g ref="char:EOLhyphen"/>whelmed, and the storme smiting into <hi>S. Iames</hi> Church, the Organs were broken, the fone<g ref="char:EOLhyphen"/>stones forcibly throwne downe, and the steeple thereof suddenly burnt.</p>
+            <p>And at <hi>Gorlitz</hi> there was so many haile<g ref="char:EOLhyphen"/>stones cast into the Towne, that they lay at the least three quarters of an ell high heaped one vpon another in the same, which did great hurt and harme vnto the fruit in the Country. What such and the like prodigious things signifie and fore-shew, God knoweth.</p>
+            <p>In <hi>Leiptsig,</hi> vpon the <hi>12</hi> day of the moneth of Iune, the water rose so high, and increased in such aboundance, that it carried away aboue an hundred clap-bordes, the powder-mill, a stone bridge, the garden and house of pleasure, the tinne bath-stoues, couered ouer with Cop<g ref="char:EOLhyphen"/>per, the butchery, the fish toll-house, the rent<g ref="char:EOLhyphen"/>maisters house, the timber-house, the house wherein the prouision was kept, the Indian hen-house, the grauing-mill where the Iasper stone lay (wherein they had grauen D. <hi>Iohns</hi> Epitaph) the wodden bridge couered with tiles, the wall round about the Castle-garden, the water-worke, the pipe, and the wall about it, in the castle a round tower with a vault therein, and much timber, and the water ran in at the lop, or shot holes, (within the Castle<g ref="char:EOLhyphen"/>walkes a mans height at the least) into the towne by the Kegell tower, and the Reich-mil, the water was <hi>16</hi> elles high, in the corn-house
+<pb n="4" facs="tcp:177082:6"/>it carried away all the corne out of the nether loft, whereby it swom in the towne ditches, in the castle, and in the castle-vault, the vessels with wine and beere were ouer-throwne, so that they could by no meanes be holpen, or sa<g ref="char:EOLhyphen"/>ued in the suddennesse of the time. In the war<g ref="char:EOLhyphen"/>drope of the castle, the Dukes apparrell and Tapestry hangings were spoiled, the Prin<g ref="char:EOLhyphen"/>ces Orchard ouerwhelmed: in the fore roomes or part of the house, fiue and twenty horses, two and forty Cowes, two and forty Calues, forty swine, sixe fat Oxen, and many Fowles, with their stables and cages, belonging to the yong Duke, were all broken and drowned. And in the towne, in the neither mill, besides thirteene men, there was certaine quarters, or measures of corne, much houshold-stuffe, and at least a thousand gilderns in money, drow<g ref="char:EOLhyphen"/>ned and lost, and the millers wife, and her man lost their liues, the Reich-mill was torne in peeces, and therewith foure and forty houses and barnes, with all their houshold stuffe and prouision ouer-throwne &amp; spoiled, and three<g ref="char:EOLhyphen"/>score and fiue men women and children drow<g ref="char:EOLhyphen"/>ned.</p>
+            <p>In the villages thereunto adioining, a Gen<g ref="char:EOLhyphen"/>tleman called <hi>Monsieur Schutz,</hi> had his house, with his houshold stuffe and cattle, and many other houses more cleane ouer-whelmed and the stone-bridge broken downe, the Gentle<g ref="char:EOLhyphen"/>man and his wife, by great fortune and with great paine, and much trouble were saued.</p>
+            <pb n="5" facs="tcp:177082:6"/>
+            <p>In <hi>Erisdorp</hi> there was ten houses ouer<g ref="char:EOLhyphen"/>whelmed, and fifteene men drowned.</p>
+            <p>In <hi>Ouerweinmar</hi> the mill with ten houses was cast downe, and many men drowned.</p>
+            <p>In <hi>Deifurt</hi> nine houses, and nine men were ouerthrowne and drowned, and all the village <hi>Kromsdorf</hi> spoiled except the Parsons house, and the Gentlemans house of that towne.</p>
+            <p>In <hi>Vilerhelben</hi> four teene houses &amp; sheepe<g ref="char:EOLhyphen"/>stailes were throwne to the ground, and fiue men drowned.</p>
+            <p>In <hi>Roslebn</hi> the corne house, the mill, the stoue, the worke-house, and the sheep-stalles, with at least a thousand sheepe, were all spoi<g ref="char:EOLhyphen"/>led ouer-whelmed, and drowned.</p>
+            <p>In <hi>Soltelsee</hi> eight and twenty houses, and three men sunke and drowned.</p>
+            <p>In <hi>Wortstet</hi> fiue and twenty men, women, and children drowned, and ten houses oner<g ref="char:EOLhyphen"/>throwne, with the mill and the brew-house.</p>
+            <p>In <hi>Vberstadt 44</hi> houses, and <hi>23</hi> men consu<g ref="char:EOLhyphen"/>med and drowned.</p>
+            <p>In <hi>Drebem</hi> twenty men, and so many hou<g ref="char:EOLhyphen"/>ses, and all <hi>Monsieur Shenkes</hi> cattle drowned.</p>
+            <p>In ouer <hi>Drebern</hi> the mill and the Brew<g ref="char:EOLhyphen"/>house borne away.</p>
+            <p>In <hi>Soltza 20.</hi> men, and <hi>39.</hi> houses drow<g ref="char:EOLhyphen"/>ned.</p>
+            <p>In the village of <hi>Soltza,</hi> the Brew-house was ouerthrowne.</p>
+            <p>In great <hi>Grumbach</hi> besides <hi>29</hi> houses, and many men, women, and children, with great
+<pb n="6" facs="tcp:177082:7"/>store of Cattle cleane borne away, there was aboue a thousand persons more drowned, for the which their was great lamentation and sorow made.</p>
+            <p>The stormy weather, and the rising of the waters was so great, that for the space of fif<g ref="char:EOLhyphen"/>teene Dutch miles long, and about <hi>Erfford</hi> and <hi>Mulhausen,</hi> all the friute in the Country was spoyled and destroyed.</p>
+            <p>In <hi>Weinmar</hi> there was nineteene Maister <hi>Weisgerbies</hi> whereof there are now but three liuing.</p>
+            <p>And daily there was graues made and dig<g ref="char:EOLhyphen"/>ged in diuers places in the Country, wherein were buried at least <hi>10</hi> or <hi>12</hi> men, women, and children, together.</p>
+            <p>So that the great hurt and misery done, and endured in these Countries of <hi>Germany</hi> is not to be told for the extremety thereof.</p>
+            <p>In the land of <hi>VVurtenberg,</hi> in <hi>Nagolt</hi> there was ten men drowned, two houses ouer<g ref="char:EOLhyphen"/>whelmed, &amp; the corne vpon the ground spoiled.</p>
+            <p>In <hi>Hernberg, Rotenberg, Tubingen,</hi> and <hi>Islengen,</hi> the fruites, vines, and corne, were all spoiled.</p>
+            <p>About <hi>Elwang,</hi> and <hi>Dunkelspiel,</hi> there was haile-stones found that wayed two, three, and foure pound weight.</p>
+            <p>In <hi>Orterum</hi> the lightning strake into the Castle, whereby the greatest part thereof was burnt, and at least three hundred men drow<g ref="char:EOLhyphen"/>ned in the Riuer.</p>
+            <pb n="7" facs="tcp:177082:7"/>
+            <p> In <hi>Prage</hi> in <hi>Bohemia</hi> the stormes and tem<g ref="char:EOLhyphen"/>pests were so great that they did much hurt in many places throughout the country, whereby the fruits were not onely destroied, but also the water-sluces, ditches, and weares brake into the countrey, and thereby made the waters grow so high, that aboue a hundred loads of Timber, and many fats full of Corne swam vpon the water, and fishes were found and ta<g ref="char:EOLhyphen"/>ken vpon the land.</p>
+            <p>In many places the water carried away the Sheepheards out of the field, and many hun<g ref="char:EOLhyphen"/>dreds of cattle drowned, and great store of horses and sheepe. So that the great losse about this time endured by the people in these Countries, by meanes thereof, amounteth vnto many hundred thousand Dollers.</p>
+            <p>
+               <hi>God Almighty if it bee his will and pleasure, defend, keepe and deliuer vs from the like trou<g ref="char:EOLhyphen"/>bles and aduersities, and turne his angry wrath and indignation from vs, which we (by reason of our great and innumerable sinnes) haue well de<g ref="char:EOLhyphen"/>serued; and for the merits and passion of our Lord and Sauiour Iesus Christ his sonne, be mer<g ref="char:EOLhyphen"/>cifull vnto vs, and giue vs grace to liue in such a sort, that we may be alwayes ready for the Lord, whensoeuer hee calleth vs out of this world. <hi>A<g ref="char:EOLhyphen"/>men.</hi>
+               </hi>
+            </p>
+            <pb n="8" facs="tcp:177082:8"/>
+            <p> BY letters sent from <hi>Constantinople</hi> bea<g ref="char:EOLhyphen"/>ring date the <hi>14</hi> of <hi>Iune,</hi> it is certified to truth, that in the said Citty, thereare, by casu<g ref="char:EOLhyphen"/>alty of fire that hapned therein, at least fiue thousand houses burnt, and that the great losse thereby sustained, amounteth vnto more then a Million of Gold: and that the said fire was the cause of a great tumult and vprore made therein at the same time; for that the <hi>Ia<g ref="char:EOLhyphen"/>nizaries</hi> vnder pretence of quenching the fire robbed and ransacked the <hi>Iewes, Greekes,</hi> and <hi>Armenians</hi> houses, who thereupon making re<g ref="char:EOLhyphen"/>sistance against the <hi>Turkes,</hi> in the contention betweene them they slew one of the <hi>Iannisaries,</hi> for the which the next day after, they wer fined to pay ten thousand <hi>Cechinies,</hi> there-with to content and please the principall <hi>Visiere Nazut;</hi> which notwithstanding knowing a certaine <hi>Iew</hi> in <hi>Constantinople</hi> to be exceeding rich, hee caused him to be accused by false witnesses, that he was the man that slew the <hi>Iannisarie,</hi> and for the same, condemned him to die, and all his goods to be confiscated, which put the rest of the <hi>Iewes</hi> and Merchants in <hi>Constanti<g ref="char:EOLhyphen"/>nople</hi> in great feare and much perplexity.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
